@@ -2,15 +2,6 @@
 
 > This is a template repo for node based CLI's.
 
-## Table of Contents
-
--  [Install](#install)
-
--  [Usage](#usage)
-
--  [Build Setup](#build)
-
-
 ## Development Installation and Startup
 
 ``` bash
