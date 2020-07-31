@@ -15,3 +15,7 @@ $ npm run dev
 $ npm install -g
 $ demo-cli
 ```
+
+## TODO
+- Add Axios
+- Migrate to OOP
